@@ -1,51 +1,53 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Your Gateway to Fully Funded Masters, PhDs & Postdocs"
+  content: "Discover verified funding opportunities, connect directly with top researchers, and accelerate your academic journey. fullyFunded brings curated scholarships, research grants, and PI contacts to one platform."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Fork Deploy and Edit Online 🚀"
-    link: "https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/"
+    label: "Explore Opportunities 🎓"
+    link: "#features"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Comprehensive Opportunity Listings"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Access a searchable database of fully funded opportunities categorized by degree level, discipline, location, and more. Save hours of research by finding verified scholarships in one place."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Astro"
-    image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Fully funded Masters, PhD, Postdoc & Research Grants"
+      - "Curated listings across multiple disciplines and locations"
+      - "Advanced search filters by degree, field, funding amount & deadline"
+      - "Verified opportunity information from trusted sources"
+      - "Regular updates on new scholarships and extended deadlines"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "Browse Opportunities"
+      link: "#contact"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Direct PI & Professor Contact Directory"
+    image: "/images/service-2.png"
+    content: "Break through the cold-outreach barrier with verified contact details of principal investigators and research supervisors. Network with leaders in your field and get personalized guidance."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Verified contacts for principal investigators and supervisors"
+      - "Easy contact export for networking and outreach"
+      - "Actionable templates for professional PI communication"
+      - "Reduce research friction in finding the right mentor"
+      - "Get tailored guidance directly from faculty experts"
+    button:
+      enable: true
+      label: "Access Contact Directory"
+      link: "#contact"
+
+  - title: "Smart Search & Application Management"
+    image: "/images/service-3.png"
+    content: "Stay organized with deadline tracking, application status management, and personalized opportunity recommendations based on your profile and goals."
+    bulletpoints:
+      - "Personalized opportunity recommendations based on your profile"
+      - "Automatic deadline reminders and status tracking"
+      - "Application management dashboard to track your progress"
+      - "Smart filters to find opportunities matching your qualifications"
+      - "Real-time alerts for new matches and extended deadlines"
     button:
       enable: false
       label: ""

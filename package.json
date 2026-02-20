@@ -1,7 +1,7 @@
 {
-  "name": "astroplate",
+  "name": "fullyFunded",
   "version": "5.12.0",
-  "description": "Astro and Tailwindcss boilerplate",
+  "description": "fullyFunded - Find Fully Funded Academic Opportunities",
   "author": "zeon.studio",
   "license": "MIT",
   "packageManager": "yarn@4.12.0",
