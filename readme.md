@@ -1,12 +1,12 @@
-<h1 align=center>Astro + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
+<h1 align=center>fullyFunded - Find Fully Funded Academic Opportunities</h1>
 
-<p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
+<p align=center>fullyFunded is a platform dedicated to connecting researchers with verified fully funded scholarships, grants, and research opportunities across the globe.</p>
 
 <p align=center>Made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
 
 <p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
 
-<h2 align="center"> <a target="_blank" href="https://astroplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a target="_blank" href="https://astroplate-multilang.netlify.app/" rel="nofollow">👀 Demo Multilang</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-astroplate-netlify-app/yzx3foum3w?form_factor=desktop">Page Speed (100%)🚀</a> |   <a target="_blank" href="https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/">
+<h2 align="center"> <a target="_blank" href="https://fullyFunded.netlify.app/" rel="nofollow">👀 Demo</a> | <a target="_blank" href="https://fullyFunded-multilang.netlify.app/" rel="nofollow">👀 Demo Multilang</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-fullyFunded-netlify-app/yzx3foum3w?form_factor=desktop">Page Speed (100%)🚀</a> |   <a target="_blank" href="https://app.sitepins.com/new/clone?name=fullyFunded&repository=https://github.com/zeon-studio/fullyFunded/">
     <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins">
   </a>
 </h2>
@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/static/v1?label=ASTRO&message=5.15&color=000&logo=astro"  alt="Astro Version 5.15"/>
   </a>
 
-  <a href="https://github.com/zeon-studio/astroplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/astroplate" alt="license"></a>
+  <a href="https://github.com/zeon-studio/fullyFunded/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/zeon-studio/fullyFunded" alt="license"></a>
 
-  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/astroplate" alt="code size">
+  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/fullyFunded" alt="code size">
 
-  <a href="https://github.com/zeon-studio/astroplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/astroplate" alt="contributors"></a>
+  <a href="https://github.com/zeon-studio/fullyFunded/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/zeon-studio/fullyFunded" alt="contributors"></a>
 </p>
 
 ## 📌 Key Features
@@ -95,21 +95,21 @@ yarn run build
 ### 👉 Build and Run With Docker
 
 ```bash
-docker build -t astroplate .
+docker build -t fullyFunded .
 # or
-# docker build --build-arg INSTALLER=npm -t astroplate .
+# docker build --build-arg INSTALLER=npm -t fullyFunded .
 # or
-# docker build --build-arg INSTALLER=pnpm -t astroplate .
+# docker build --build-arg INSTALLER=pnpm -t fullyFunded .
 
-docker run -p 3000:80 astroplate
+docker run -p 3000:80 fullyFunded
 # or
-# docker run --rm -p 3000:80 astroplate
+# docker run --rm -p 3000:80 fullyFunded
 ```
 
 To access the shell within the container:
 
 ```bash
-docker run -it --rm astroplate ash
+docker run -it --rm fullyFunded ash
 ```
 
 <!-- edit with sitepins -->
@@ -122,7 +122,7 @@ This template comes pre-configured with [**Sitepins**](https://sitepins.com), a 
 
 Click the Edit with Sitepins button below and follow the on-screen instructions to start editing your content visually.
 
-  <a target="_blank" href="https://app.sitepins.com/new/clone?name=Astroplate&repository=https://github.com/zeon-studio/astroplate/">
+  <a target="_blank" href="https://app.sitepins.com/new/clone?name=fullyFunded&repository=https://github.com/zeon-studio/fullyFunded/">
     <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins">
   </a>
 
@@ -130,8 +130,8 @@ Click the Edit with Sitepins button below and follow the on-screen instructions 
 
 ## 🐞 Reporting Issues
 
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/astroplate/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/astroplate/issues).
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/fullyFunded/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/fullyFunded/issues).
 
 <!-- licence -->
 
@@ -139,7 +139,7 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
-**Code License:** Released under the [MIT](https://github.com/zeon-studio/astroplate/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/zeon-studio/fullyFunded/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 

@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Real Success Stories from Our Users"
+description: "Hear directly from researchers and students who found fully funded opportunities through fullyFunded and transformed their academic careers."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Sarah T."
+    designation: "Ph.D. Candidate in Computer Science"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "fullyFunded changed my life — I found a fully funded Ph.D. in Germany and connected directly to my supervisor through the platform. I would never have found it otherwise!"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "James K."
+    designation: "Masters Scholar in Biotechnology"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "The deadline tracker and template library made my application process smooth and stress-free. I got two offers from top universities!"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Priya Sharma"
+    designation: "Postdoctoral Researcher"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "I was overwhelmed by the number of postdoc opportunities available. fullyFunded's smart matching algorithm helped me find positions perfectly aligned with my research interests."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Ahmed Hassan"
+    designation: "International Student from Egypt"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "As an international student, finding fully funded programs seemed impossible. This platform gave me access to verified opportunities and PI contacts that changed everything for me."
 ---
