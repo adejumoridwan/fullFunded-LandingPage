@@ -6,5 +6,5 @@ description: "Your gateway to fully funded academic opportunities. Access verifi
 button:
   enable: true
   label: "Explore Opportunities Today 🎓"
-  link: "#contact"
+  link: "https://app.fullyfunded.online"
 ---

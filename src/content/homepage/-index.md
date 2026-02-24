@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Explore Opportunities 🎓"
-    link: "#features"
+    link: "https://app.fullyfunded.online"
 
 # Features
 features:
@@ -23,7 +23,7 @@ features:
     button:
       enable: true
       label: "Browse Opportunities"
-      link: "#contact"
+      link: "https://app.fullyfunded.online"
 
   - title: "Direct PI & Professor Contact Directory"
     image: "/images/service-2.png"
@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "Access Contact Directory"
-      link: "#contact"
+      link: "https://app.fullyfunded.online"
 
   - title: "Smart Search & Application Management"
     image: "/images/service-3.png"
