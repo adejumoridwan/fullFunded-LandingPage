@@ -19,11 +19,11 @@
         },
         {
           "name": "Blog",
-          "url": "/"
+          "url": "/blog"
         },
         {
           "name": "Authors",
-          "url": "/"
+          "url": "/authors"
         },
         {
           "name": "Categories",
