@@ -5,7 +5,7 @@ meta_title: "Torn between a fully funded master's and a fully funded PhD? This g
 description: "Masters vs. PhD: Which Fully Funded Path is Right for You?
 Let's be honest — getting into a fully funded graduate program is a big deal. You've done the hard work, and now you're staring at a fork in the road: pursue a fully funded master's degree or go all-in on a fully funded PhD."
 date: 2026-02-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/m_v_p.png"
 categories: ["Masters", "PhD"]
 author: "Adejumo Ridwan Suleiman"
 tags: ["Masters", "PhD"]

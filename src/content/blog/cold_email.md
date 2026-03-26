@@ -3,7 +3,7 @@ title: "The Cold Email Strategy: How to Reach Out to Potential PhD Supervisors"
 meta_title: "Not sure how to contact a PhD supervisor? This guide breaks down the cold email strategy; what to write, how to personalise it, and how to actually get a reply."
 description: "The Cold Email Strategy: How to Reach Out to Potential PhD Supervisors. A step-by-step guide to writing cold emails that get responses, including a real email template, common mistakes to avoid, and tips on following up professionally."
 date: 2026-03-08T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/cold_email.png"
 categories: ["PhD", "Graduate School"]
 author: "Adejumo Ridwan Suleiman"
 tags: ["PhD Application", "Cold Email", "PhD Supervisor", "Graduate School Advice"]
